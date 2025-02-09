@@ -151,7 +151,7 @@ This API is deployed on **Render**. You can access it here:
 
 ## 👨‍💻 Author
 
-**Your Name**  
+**Mouzamuddin Mir**  
 [GitHub](https://github.com/Mouzamuddin) | [LinkedIn](https://www.linkedin.com/in/mouzamuddin-mir-623625200/)
 
 ---
